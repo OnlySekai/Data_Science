@@ -2,7 +2,6 @@
 #
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/items.html
-from __future__ import absolute_import
 
 import scrapy
 
